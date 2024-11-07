@@ -13,7 +13,7 @@
 </p>
 
 ## About me
-- 💻 Currently, I'm studying Python and exploring its applications in the programming world.
+- 💻 Currently studying Multiplatform Application Development | Passionate about creating mobile and web applications | Exploring Java and its applications in software development
 
 - 🌟 My areas of interest include web development, data analysis, and automation.
 
